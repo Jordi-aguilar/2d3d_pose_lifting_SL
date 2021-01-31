@@ -1,2 +1,6 @@
+.*
+!/.gitignore
+
+
 Data/
 Output/
